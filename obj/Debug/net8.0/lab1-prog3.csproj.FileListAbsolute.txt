@@ -1,0 +1,14 @@
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/bin/Debug/net8.0/lab1-prog3
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/bin/Debug/net8.0/lab1-prog3.deps.json
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/bin/Debug/net8.0/lab1-prog3.runtimeconfig.json
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/bin/Debug/net8.0/lab1-prog3.dll
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/bin/Debug/net8.0/lab1-prog3.pdb
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/obj/Debug/net8.0/lab1-prog3.GeneratedMSBuildEditorConfig.editorconfig
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/obj/Debug/net8.0/lab1-prog3.AssemblyInfoInputs.cache
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/obj/Debug/net8.0/lab1-prog3.AssemblyInfo.cs
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/obj/Debug/net8.0/lab1-prog3.csproj.CoreCompileInputs.cache
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/obj/Debug/net8.0/lab1-prog3.dll
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/obj/Debug/net8.0/refint/lab1-prog3.dll
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/obj/Debug/net8.0/lab1-prog3.pdb
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/obj/Debug/net8.0/lab1-prog3.genruntimeconfig.cache
+/home/heitor/Documentos/Projetos.Net/lab1-prog3/obj/Debug/net8.0/ref/lab1-prog3.dll
